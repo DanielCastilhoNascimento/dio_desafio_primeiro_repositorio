@@ -1,0 +1,12 @@
+- Salvei e copiei o 1o. repositório como html no github
+- Criei uma pasta na maquina local para para clonar
+- Gitbash (Terminal extendido para otimizar o uso do Git) com o botão direito dentro da pasta opção 'Git Bash Here'
+- Pasta clonada copiada para o diretorio
+- comandos:
+	- git clone https://github.com/DanielCastilhoNascimento/dio_desafio_primeiro_repositorio.git
+	- git status
+- Criado pasta para 'Importante' para anotações
+- Criado pasta 'Introdução ao Git e Github'
+- Atualizando o repositório no github pelo computador local
+	- 'git add .' ou 'git add - A'
+
