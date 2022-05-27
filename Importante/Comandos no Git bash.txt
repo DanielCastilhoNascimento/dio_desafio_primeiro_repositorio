@@ -5,17 +5,21 @@
 - comandos:
 	- git clone https://github.com/DanielCastilhoNascimento/dio_desafio_primeiro_repositorio.git
 	- git status
-- Criado pasta para 'Importante' para anotações
+- Criado pasta para 'Importante' para anotações e arquivo txt 'Comandos no Git bash'
 - Criado pasta 'Introdução ao Git e Github'
+
 - Atualizando o repositório LOCAL
 	- 'git add .' ou 'git add - A'
-- Atualizando o repositório do GITHUB
-	- git commit -m "comentario sobre a atualização"
-	e também
-	- git push origin main
 
--- Ops... autenticação agora é com token  
-	- https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
--- Como ter o token
-	- https://docs.github.com/en/get-started/quickstart/set-up-git#next-steps-authenticating-with-github-from-git
+- Atualizando o repositório do GITHUB
+	- git commit -m "comentario sobre a atualização"     --> adiciona comentário sobre a atualização
+	em seguida		
+	- git push origin main     --> atualiza o diretorio no github
+
+XXXXXX	-- Ops... autenticação agora é com token  
+		- https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+	-- Como ter o token
+		- https://docs.github.com/en/get-started/quickstart/set-up-git#next-steps-authenticating-with-github-from-git
+
+RESOLVIDO..  ATUALIZADO PARA A ULTIMA VERSÃO DO GIT versão 2.36.1 64 bits de 09 05 2022
 
