@@ -7,6 +7,15 @@
 	- git status
 - Criado pasta para 'Importante' para anotações
 - Criado pasta 'Introdução ao Git e Github'
-- Atualizando o repositório no github pelo computador local
+- Atualizando o repositório LOCAL
 	- 'git add .' ou 'git add - A'
+- Atualizando o repositório do GITHUB
+	- git commit -m "comentario sobre a atualização"
+	e também
+	- git push origin main
+
+-- Ops... autenticação agora é com token  
+	- https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+-- Como ter o token
+	- https://docs.github.com/en/get-started/quickstart/set-up-git#next-steps-authenticating-with-github-from-git
 
